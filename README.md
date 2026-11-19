@@ -56,5 +56,4 @@ cogs/boas_vindas.py → boas-vindas e /testar-boas-vindas
 
 ---
 
-Feito por **Lukas**. Faço bots de Discord sob medida e resolvo problemas em modpacks de Minecraft. Contato: **1lukas.araujo.freelancer@gmail.com
-*
+Feito por **Lukas**. Faço bots de Discord sob medida e resolvo problemas em modpacks de Minecraft. Contato: **1lukas.araujo.freelancer@gmail.com**
